@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<H1>FULL STACK DEVELOPER</H1>
+<p id="katdemo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
